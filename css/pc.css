@@ -1,5 +1,5 @@
 header{
-    background-color: grey
+    background-color: red
 }
 .container {
 	max-width: 1200;
@@ -26,12 +26,8 @@ a {
 .logo {
 	margin-left: 60px;
 }
-.sec2 {
-	background-image: url(ps5.jpg);
-}
-.sec2 h2  {
-    font-size: 50px;
-    margin-top: 90px;
-    margin-left: 60px;
-    border-radius: 5px;
+.sec1 {
+    background-image: url(../images/stel.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
 }
